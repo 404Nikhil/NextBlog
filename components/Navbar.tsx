@@ -29,7 +29,7 @@ const Navbar = () => {
             <li className='mr-6 font-medium text-gray-200'>
                 <a href='#' className='hover:text-gray-50'>Login</a>
             </li>
-            <li className='mr-6 font-medium text-gray-200'>
+            <li className=' font-medium text-gray-200'>
                 <a href='#' className='bg-purple-400 py-2 px-4 rounded-sm text-white hover:bg-purple-700 transition-all'>Signup</a>
             </li>
 
